@@ -8,5 +8,6 @@ public class Jenkin{
         Student student=new Student();
         student.sayHello();
         System.out.println("Done with testing of first project of jenkins..................");
+        System.out.println(5*5);
     }
 }
